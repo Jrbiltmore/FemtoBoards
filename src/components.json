@@ -1,0 +1,29 @@
+
+{
+    "components": [
+        {
+            "id": "QD1",
+            "type": "Quantum Dot",
+            "properties": {
+                "quantum_states": 5,
+                "diameter": "10fm"
+            }
+        },
+        {
+            "id": "MT1",
+            "type": "Molecular Transistor",
+            "properties": {
+                "on_resistance": "50kOhm",
+                "off_resistance": "1MOhm"
+            }
+        },
+        {
+            "id": "CNW1",
+            "type": "Carbon Nanowire",
+            "properties": {
+                "length": "100fm",
+                "conductivity": "high"
+            }
+        }
+    ]
+}

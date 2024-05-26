@@ -1,0 +1,15 @@
+
+{
+    "tools": [
+        {
+            "name": "Electron Beam Lithography System",
+            "required": true,
+            "precision": "1nm"
+        },
+        {
+            "name": "Atomic Layer Deposition System",
+            "required": true,
+            "capabilities": "atomic precision"
+        }
+    ]
+}

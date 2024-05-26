@@ -1,0 +1,29 @@
+
+{
+    "materials": [
+        {
+            "id": "Graphene",
+            "properties": {
+                "electrical_conductivity": "ultra-high",
+                "thermal_conductivity": "high",
+                "mechanical_strength": "very_high"
+            }
+        },
+        {
+            "id": "Silicon",
+            "properties": {
+                "electrical_conductivity": "moderate",
+                "thermal_conductivity": "medium",
+                "mechanical_strength": "medium"
+            }
+        },
+        {
+            "id": "MolybdenumDisulfide",
+            "properties": {
+                "electrical_conductivity": "low",
+                "thermal_conductivity": "low",
+                "mechanical_strength": "high"
+            }
+        }
+    ]
+}
